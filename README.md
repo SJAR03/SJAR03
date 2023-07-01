@@ -28,7 +28,7 @@
 
 - 💻 I've been interest in linux. So, I'm currently using **Kubuntu**
 
-- 📫 Feel free to reach me out: **[Email me][email]**
+- 📫 Feel free to reach me out: **sayerdisrodriguez@gmail.com**
 
 - 🤔 The next thing i want to do is learn **React native**
 <!--Intro end-->
@@ -77,8 +77,6 @@
 
 <!--profile visit count-->
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=SJAR03&label=Profile%20views&color=D1781D&style=for-the-badge" alt="SJAR03"/>
+<img src="https://komarev.com/ghpvc/?username=SJAR03&label=Profile%20views&color=D1781D&style=for-the-badge" alt="SJAR03" width = 150/>
 </p>
 <!--profile visit count ends-->
-
-[email]: sayerdisrodriguez@gmail.com

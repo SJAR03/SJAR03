@@ -6,4 +6,4 @@
 </div>
 
 <h2>Snake eating my contributions graph</h2>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SJAR03/SJAR03/blob/output/github-contribution-grid-snake.gif)

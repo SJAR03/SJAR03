@@ -43,7 +43,7 @@
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,mysql,postgres,postman,scss,tailwind,bootstrap,java,spring,kotlin,c,cpp,lua,md,neovim,vite,androidstudio,idea,vscode,visualstudio,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,mysql,postgres,postman,scss,tailwind,bootstrap,java,spring,kotlin,c,cpp,lua,md,neovim,vite,git,github,androidstudio,idea,vscode,visualstudio,linux&perline=14" />
   </a>
 </p>
 <!--tech stack icons-->

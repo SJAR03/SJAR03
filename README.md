@@ -18,7 +18,7 @@
 <!--- snake -->
 <!-- <h4>Snake eating my contributions graph</h4> -->
 <div align="center">
-  <img  src="https://github.com/SJAR03/SJAR03/blob/output/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/SJAR03/SJAR03/blob/output/github-contribution-grid-snake-dark.svg"
        alt="snake" /></a>
 </div>
 

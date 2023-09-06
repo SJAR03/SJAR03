@@ -30,7 +30,7 @@
 
 - 📫 Feel free to reach me out: **sayerdisrodriguez@gmail.com**
 
-- 🤔 The next thing i want to do is learn **React native**
+- 🤔 The next thing i want to do is learn **Redux**
 <!--Intro end-->
 
 <!--tech stack-->

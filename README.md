@@ -24,13 +24,15 @@
 
 <!--Intro start-->
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 💻 I've been interest in linux. So, I'm currently using **Kubuntu**
 
+- 💼 I currently work using C# and VB .Net
+
 - 📫 Feel free to reach me out: **sayerdisrodriguez@gmail.com**
 
-- 🤔 The next thing i want to do is learn **Redux**
+- 🤔 The next thing i want to do is learn **ASP.NET Core**
 <!--Intro end-->
 
 <!--tech stack-->
@@ -43,7 +45,7 @@
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql,postgres,tailwind,bootstrap,java,spring,c,cpp,py,wordpress,git,github,idea,vscode,postman,vite,aws,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,mysql,postgres,tailwind,bootstrap,java,spring,c,cpp,cs,dotnet,git,postman,vite,aws,idea,vscode,visualstudio,linux,github&perline=10" />
   </a>
 </p>
 <!--tech stack icons-->

@@ -24,13 +24,11 @@
 
 <!--Intro start-->
 
-- 🌱 I'm currently learning **Flutter**
+- 🌱 I'm currently learning **ASP.NET Core**
 
 - 💻 I've been interest in linux. So, I'm currently using **Kubuntu**
 
-- 💼 I'm currently working using **C#** and **VB .Net**
-
-- 🤔 The next thing i want to do is learn **ASP.NET Core**
+- 💼 I spend my day working with **C#** and **VB .Net**
 
 - 📫 Feel free to reach me out: **sayerdisrodriguez@gmail.com**
 <!--Intro end-->

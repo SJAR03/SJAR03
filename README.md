@@ -24,11 +24,11 @@
 
 <!--Intro start-->
 
-- 🌱 I'm currently learning **ASP.NET Core**
+- 🌱 I'm currently learning **Docker and Kubernetes**
 
 - 💻 I've been interest in linux. So, I'm currently using **Kubuntu**
 
-- 💼 I spend my day working with **C#** and **VB .Net**
+- 💼 I spend my day working with **ASP.NET Core**
 
 - 📫 Feel free to reach me out: **sayerdisrodriguez@gmail.com**
 <!--Intro end-->
@@ -43,7 +43,7 @@
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,mysql,postgres,tailwind,bootstrap,java,spring,c,cpp,cs,dotnet,git,postman,vite,aws,idea,vscode,visualstudio,linux,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,mysql,postgres,tailwind,bootstrap,java,spring,c,jakarta,cpp,cs,dotnet,git,postman,vite,idea,vscode,visualstudio,linux,github&perline=10" />
   </a>
 </p>
 <!--tech stack icons-->

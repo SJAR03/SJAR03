@@ -1,15 +1,14 @@
 <!--Presentation-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Sergio</h1></summary>
-  </ul>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/83/3f/2d/833f2d51e4197662dd71b99396f72b37.gif" width="300" style="border-radius:12px;">
+  <h1 style="margin-top:15px;">Hi, I'm Sergio</h1>
 </div>
 <!--Presentation-->
 
 <!-- Some facts -->
 <p align="center">
   <em>
-    Hello out there, my name is Sergio, a systems engineering student, always learning about web, software and mobile development, as well as anything that catches my eyes <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>.
+    Hello out there, my name is Sergio, a software developer, with focus on backend and mobile development. Always learning about web, software, devops and cybersecurity, as well as anything that catches my eyes <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>.
   </em> 
   <br>
 </p>
@@ -24,11 +23,11 @@
 
 <!--Intro start-->
 
-- 🌱 I'm currently learning **Docker and Kubernetes**
+- 🌱 I'm currently learning **aws and Go**
 
-- 💻 I've been interest in linux. So, I'm currently using **Kubuntu**
+- 💻 I've been interest in linux. So, I'm currently using **EndeavourOS**
 
-- 💼 I spend my day working with **ASP.NET Core**
+- 💼 I spend my day working with **ASP.NET Core, Spring boot and Kotlin**
 
 - 📫 Feel free to reach me out: **sayerdisrodriguez@gmail.com**
 <!--Intro end-->
@@ -43,7 +42,7 @@
 <p align="center">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,mysql,postgres,tailwind,bootstrap,java,spring,c,cpp,cs,dotnet,git,postman,vite,idea,vscode,visualstudio,linux,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,kotlin,androidstudio,mysql,postgres,aws,nginx,docker,javascript,ts,react,bootstrap,wordpress,git,postman,idea,vscode,visualstudio,linux,github,gitlab&perline=10" />
   </a>
 </p>
 <!--tech stack icons-->
